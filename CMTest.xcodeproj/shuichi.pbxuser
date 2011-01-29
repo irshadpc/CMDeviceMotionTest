@@ -1,0 +1,228 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* CMTest */ = {
+		activeExec = 0;
+		executables = (
+			8ACD9CC812F296FB00F2F71A /* CMTest */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* CMTestViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {723, 830}}";
+			sepNavSelRange = "{545, 0}";
+			sepNavVisRange = "{0, 616}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* CMTestViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {866, 1163}}";
+			sepNavSelRange = "{1358, 14}";
+			sepNavVisRange = "{0, 2072}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8ACD9CC812F296FB00F2F71A /* CMTest */;
+		activeSDKPreference = iphoneos4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* CMTest */;
+		breakpoints = (
+		);
+		codeSenseManager = 8ACD9CD812F2970600F2F71A /* Code sense */;
+		executables = (
+			8ACD9CC812F296FB00F2F71A /* CMTest */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					545,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 317997474;
+			PBXWorkspaceStateSaveDate = 317997474;
+		};
+		perUserProjectItems = {
+			8A61CA7612F43E010017CF81 = 8A61CA7612F43E010017CF81 /* PBXTextBookmark */;
+			8A61CA7812F43E010017CF81 = 8A61CA7812F43E010017CF81 /* PBXTextBookmark */;
+			8A61CA8112F43E620017CF81 = 8A61CA8112F43E620017CF81 /* PBXTextBookmark */;
+			8A61CA9012F440DF0017CF81 = 8A61CA9012F440DF0017CF81 /* PBXTextBookmark */;
+			8A61CA9112F440DF0017CF81 = 8A61CA9112F440DF0017CF81 /* PBXTextBookmark */;
+			8A61CA9912F441B20017CF81 /* PBXTextBookmark */ = 8A61CA9912F441B20017CF81 /* PBXTextBookmark */;
+			8ACD9D1412F2B11B00F2F71A = 8ACD9D1412F2B11B00F2F71A /* PBXTextBookmark */;
+			8ACD9D4912F2C08B00F2F71A = 8ACD9D4912F2C08B00F2F71A /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8ACD9CD712F2970600F2F71A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8A61CA7612F43E010017CF81 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8A61CA7712F43E010017CF81 /* CMDeviceMotion.h */;
+		name = "CMDeviceMotion.h: 65";
+		rLen = 31;
+		rLoc = 1258;
+		rType = 0;
+		vrLen = 1255;
+		vrLoc = 42;
+	};
+	8A61CA7712F43E010017CF81 /* CMDeviceMotion.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CMDeviceMotion.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreMotion.framework/Headers/CMDeviceMotion.h;
+		sourceTree = "<absolute>";
+	};
+	8A61CA7812F43E010017CF81 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8A61CA7912F43E010017CF81 /* CMAccelerometer.h */;
+		name = "CMAccelerometer.h: 30";
+		rLen = 18;
+		rLoc = 471;
+		rType = 0;
+		vrLen = 862;
+		vrLoc = 0;
+	};
+	8A61CA7912F43E010017CF81 /* CMAccelerometer.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CMAccelerometer.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreMotion.framework/Headers/CMAccelerometer.h;
+		sourceTree = "<absolute>";
+	};
+	8A61CA8112F43E620017CF81 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* CMTestViewController.m */;
+		name = "CMTestViewController.m: 79";
+		rLen = 0;
+		rLoc = 2412;
+		rType = 0;
+		vrLen = 1942;
+		vrLoc = 431;
+	};
+	8A61CA9012F440DF0017CF81 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* CMTestViewController.h */;
+		name = "CMTestViewController.h: 27";
+		rLen = 0;
+		rLoc = 545;
+		rType = 0;
+		vrLen = 616;
+		vrLoc = 0;
+	};
+	8A61CA9112F440DF0017CF81 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* CMTestViewController.m */;
+		name = "CMTestViewController.m: 58";
+		rLen = 0;
+		rLoc = 2004;
+		rType = 0;
+		vrLen = 2072;
+		vrLoc = 0;
+	};
+	8A61CA9912F441B20017CF81 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* CMTestViewController.m */;
+		name = "CMTestViewController.m: 47";
+		rLen = 14;
+		rLoc = 1358;
+		rType = 0;
+		vrLen = 2072;
+		vrLoc = 0;
+	};
+	8ACD9CC812F296FB00F2F71A /* CMTest */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = CMTest;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	8ACD9CD712F2970600F2F71A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8ACD9CD812F2970600F2F71A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8ACD9D1412F2B11B00F2F71A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8ACD9D1512F2B11B00F2F71A /* CMGyro.h */;
+		name = "CMGyro.h: 49";
+		rLen = 34;
+		rLoc = 1378;
+		rType = 0;
+		vrLen = 1603;
+		vrLoc = 0;
+	};
+	8ACD9D1512F2B11B00F2F71A /* CMGyro.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CMGyro.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreMotion.framework/Headers/CMGyro.h;
+		sourceTree = "<absolute>";
+	};
+	8ACD9D4912F2C08B00F2F71A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8ACD9D4A12F2C08B00F2F71A /* CMAttitude.h */;
+		name = "CMAttitude.h: 40";
+		rLen = 55;
+		rLoc = 671;
+		rType = 0;
+		vrLen = 1029;
+		vrLoc = 0;
+	};
+	8ACD9D4A12F2C08B00F2F71A /* CMAttitude.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CMAttitude.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreMotion.framework/Headers/CMAttitude.h;
+		sourceTree = "<absolute>";
+	};
+}
